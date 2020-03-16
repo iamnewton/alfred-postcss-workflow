@@ -1,5 +1,5 @@
 {
 	"version": "1.0.0",
-	"download_url": "https://raw.github.com/chrisopedia/alfred-postcss-workflow/master/postcss.alfredworkflow",
+	"download_url": "https://raw.github.com/iamnewton/alfred-postcss-workflow/master/postcss.alfredworkflow",
 	"description": "postcss.parts Search"
 }

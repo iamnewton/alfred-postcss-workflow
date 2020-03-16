@@ -1,29 +1,19 @@
-# PostCSS ([Download v1.0.0](https://raw.github.com/chrisopedia/alfred-postcss-workflow/master/postcss.alfredworkflow))
+# PostCSS Alfred Workflow
 
-Alfred App Workflow for postcss.parts
+Search for PostCSS plugins from <https://www.postcss.parts>
+
+![alt text][postcss]
 
 ## Requirements
 
-1. [Alfred App v2](http://www.alfredapp.com/#download)
-1. [Alfred Powerpack](https://buy.alfredapp.com/)
+1. [Alfred App v2 or greater](http://www.alfredapp.com/#download)
+2. [Alfred PowerPack](https://buy.alfredapp.com/)
 
-## Installing
+## Installation
 
-1. Click the download buttons below
-*. Double-click to import into Alfred 2
-*. Review the workflow to add custom Hotkeys
-
-## Updating
-
-Run the [Alleyoop Workflow](http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/)
-using the keyword `oop`. If you're not comfortable with Alleyoop, **star & watch
-this repo** to keep up to date on new versions and additional workflows.
-
-## About
-
-Alfred App Workflow for postcss.parts
-
-![alt text][postcss]
+1. [Download](/blob/master/postcss.alfredworkflow)
+2. Double-click downloaded file to import into Alfred
+3. Review the workflow to add custom Hotkeys
 
 ## Commands
 
